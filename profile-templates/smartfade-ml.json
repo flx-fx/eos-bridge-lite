@@ -263,7 +263,7 @@
       "id": 24,
       "eos": 0,
       "midi": 0,
-      "groupId": 1,
+      "groupId": 2,
       "config": {
         "eosFader": 99,
         "midiController": 127
