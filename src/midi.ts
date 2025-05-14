@@ -1,6 +1,6 @@
 import { configManager } from "./config.js";
 import { type ControlChange, getInputs, Input, type Note } from "easymidi";
-import { isDevelopment, log } from "../utils.js";
+import { isDevelopment, log } from "./utils.js";
 import { faderProfileManager } from "./fader-profiles.js";
 import { eos } from "./eos.js";
 

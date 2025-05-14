@@ -1,4 +1,4 @@
-import type { LogLevel, LogType } from "./src/types/types.js";
+import type { LogLevel, LogType } from "./types/types.js";
 
 const logMethods: Record<LogLevel, (msg: string) => void> = {
   error: console.error,

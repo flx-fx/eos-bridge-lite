@@ -1,6 +1,6 @@
 import { EosConsole } from "eos-console";
 import { configManager } from "./config.js";
-import { log } from "../utils.js";
+import { log } from "./utils.js";
 import type { Id, LogLevel } from "./types/types.js";
 import { faderProfileManager } from "./fader-profiles.js";
 

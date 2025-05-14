@@ -1,0 +1,273 @@
+{
+  "id": "1234567890",
+  "name": "SmartFade ML",
+  "faderGroups": [
+    {
+      "id": 0,
+      "name": "1-12",
+      "page": 1
+    },
+    {
+      "id": 1,
+      "name": "13-24",
+      "page": 1
+    },
+    {
+      "id": 2,
+      "name": "Master",
+      "page": 1
+    }
+  ],
+  "faders": [
+    {
+      "id": 0,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 1,
+        "midiController": 1
+      }
+    },
+    {
+      "id": 1,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 2,
+        "midiController": 2
+      }
+    },
+    {
+      "id": 2,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 3,
+        "midiController": 3
+      }
+    },
+    {
+      "id": 3,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 4,
+        "midiController": 4
+      }
+    },
+    {
+      "id": 4,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 5,
+        "midiController": 5
+      }
+    },
+    {
+      "id": 5,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 6,
+        "midiController": 6
+      }
+    },
+    {
+      "id": 6,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 7,
+        "midiController": 7
+      }
+    },
+    {
+      "id": 7,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 8,
+        "midiController": 8
+      }
+    },
+    {
+      "id": 8,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 9,
+        "midiController": 9
+      }
+    },
+    {
+      "id": 9,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 10,
+        "midiController": 10
+      }
+    },
+    {
+      "id": 10,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 11,
+        "midiController": 11
+      }
+    },
+    {
+      "id": 11,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 0,
+      "config": {
+        "eosFader": 12,
+        "midiController": 12
+      }
+    },
+    {
+      "id": 12,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 13,
+        "midiController": 13
+      }
+    },
+    {
+      "id": 13,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 14,
+        "midiController": 14
+      }
+    },
+    {
+      "id": 14,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 15,
+        "midiController": 15
+      }
+    },
+    {
+      "id": 15,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 16,
+        "midiController": 16
+      }
+    },
+    {
+      "id": 16,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 17,
+        "midiController": 17
+      }
+    },
+    {
+      "id": 17,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 18,
+        "midiController": 18
+      }
+    },
+    {
+      "id": 18,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 19,
+        "midiController": 19
+      }
+    },
+    {
+      "id": 19,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 20,
+        "midiController": 20
+      }
+    },
+    {
+      "id": 20,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 21,
+        "midiController": 21
+      }
+    },
+    {
+      "id": 21,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 22,
+        "midiController": 22
+      }
+    },
+    {
+      "id": 22,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 23,
+        "midiController": 23
+      }
+    },
+    {
+      "id": 23,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 24,
+        "midiController": 24
+      }
+    },
+    {
+      "id": 24,
+      "eos": 0,
+      "midi": 0,
+      "groupId": 1,
+      "config": {
+        "eosFader": 99,
+        "midiController": 127
+      }
+    }
+  ]
+}

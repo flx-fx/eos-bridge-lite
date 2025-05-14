@@ -11,7 +11,7 @@ import path from "path";
 import os from "os";
 import fs from "fs";
 import { configManager } from "./config.js";
-import { log, getId } from "../utils.js";
+import { log, getId } from "./utils.js";
 
 const appDataPath = path.join(
   os.homedir(),
